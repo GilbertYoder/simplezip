@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "11223",
+  "city": "Brooklyn",
+  "state": "New York",
+  "stateCode": "NY",
+  "county": "Kings",
+  "countyCode": "047",
+  "community": "",
+  "communityCode": "",
+  "latitude": 40.5979,
+  "longitude": -73.9743,
+  "accuracy": 4
+}

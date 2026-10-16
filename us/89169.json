@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "89169",
+  "city": "Las Vegas",
+  "state": "Nevada",
+  "stateCode": "NV",
+  "county": "Clark",
+  "countyCode": "003",
+  "community": "",
+  "communityCode": "",
+  "latitude": 36.1234,
+  "longitude": -115.1429,
+  "accuracy": 4
+}

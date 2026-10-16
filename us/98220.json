@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "98220",
+  "city": "Acme",
+  "state": "Washington",
+  "stateCode": "WA",
+  "county": "Whatcom",
+  "countyCode": "073",
+  "community": "",
+  "communityCode": "",
+  "latitude": 48.6752,
+  "longitude": -122.1914,
+  "accuracy": 4
+}

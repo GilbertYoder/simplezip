@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "23942",
+  "city": "Green Bay",
+  "state": "Virginia",
+  "stateCode": "VA",
+  "county": "Prince Edward",
+  "countyCode": "147",
+  "community": "",
+  "communityCode": "",
+  "latitude": 37.1234,
+  "longitude": -78.3072,
+  "accuracy": 4
+}

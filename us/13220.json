@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "13220",
+  "city": "Syracuse",
+  "state": "New York",
+  "stateCode": "NY",
+  "county": "Onondaga",
+  "countyCode": "067",
+  "community": "",
+  "communityCode": "",
+  "latitude": 43.1234,
+  "longitude": -76.1282,
+  "accuracy": 4
+}

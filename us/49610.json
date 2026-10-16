@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "49610",
+  "city": "Acme",
+  "state": "Michigan",
+  "stateCode": "MI",
+  "county": "Grand Traverse",
+  "countyCode": "055",
+  "community": "",
+  "communityCode": "",
+  "latitude": 44.7894,
+  "longitude": -85.4884,
+  "accuracy": 4
+}

@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "10987",
+  "city": "Tuxedo Park",
+  "state": "New York",
+  "stateCode": "NY",
+  "county": "Orange",
+  "countyCode": "071",
+  "community": "",
+  "communityCode": "",
+  "latitude": 41.1925,
+  "longitude": -74.2159,
+  "accuracy": 4
+}

@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "45678",
+  "city": "Scottown",
+  "state": "Ohio",
+  "stateCode": "OH",
+  "county": "Lawrence",
+  "countyCode": "087",
+  "community": "",
+  "communityCode": "",
+  "latitude": 38.594,
+  "longitude": -82.3967,
+  "accuracy": 4
+}

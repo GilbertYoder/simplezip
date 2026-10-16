@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "21234",
+  "city": "Parkville",
+  "state": "Maryland",
+  "stateCode": "MD",
+  "county": "Baltimore",
+  "countyCode": "005",
+  "community": "",
+  "communityCode": "",
+  "latitude": 39.3876,
+  "longitude": -76.5418,
+  "accuracy": 4
+}

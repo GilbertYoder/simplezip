@@ -1,0 +1,14 @@
+{
+  "countryCode": "US",
+  "postalCode": "15234",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "stateCode": "PA",
+  "county": "Allegheny",
+  "countyCode": "003",
+  "community": "",
+  "communityCode": "",
+  "latitude": 40.3688,
+  "longitude": -80.0224,
+  "accuracy": 4
+}
