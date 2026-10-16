@@ -1,10 +1,10 @@
 A simple API for retreiving zip information.
 
-Data from: https://download.geonames.org/export/zip/US.zip
-Licensed under CC BY 4.0
-Data converted to JSON and field names modified.
+Data from: https://download.geonames.org/export/zip/US.zip \\
+Licensed under CC BY 4.0 \\
+Data converted to JSON and field names modified. \\
 
-# Usage
+**Usage**
 
 ```bash
 (base) ➜  ~ curl https://gilbertyoder.github.io/simplezip/us/24554.json
